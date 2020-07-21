@@ -1,0 +1,12 @@
+name: myff
+title: myff
+username:
+account: vickkiee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2596197
+bundleId: 3416237
+url: https://vickkiee.shinyapps.io/myff/
+when: 1595328188.3175
+asMultiple: FALSE
+asStatic: FALSE
